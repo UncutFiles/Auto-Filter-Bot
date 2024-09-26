@@ -1,4 +1,4 @@
-Pyrofork
+Pyrofork==2.3.43
 tgcrypto
 motor
 marshmallow
@@ -9,6 +9,5 @@ cinemagoer
 shortzy
 aiohttp
 aiofiles
-telegraph
 speedtest-cli
 uvloop
