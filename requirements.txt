@@ -8,6 +8,7 @@ pytz
 cinemagoer
 shortzy
 aiohttp
+telegraph
 aiofiles
 speedtest-cli
 uvloop
